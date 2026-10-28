@@ -60,6 +60,7 @@ _PROVIDERS: Dict[str, Tuple[str, str, str, str]] = {
     "neosantara": ("agno.models.neosantara", "Neosantara", "Neosantara", "neosantara"),
     "nexus": ("agno.models.nexus", "Nexus", "Nexus", "nexus"),
     "nvidia": ("agno.models.nvidia", "Nvidia", "Nvidia", "nvidia"),
+    "obscurify-ai": ("agno.models.obscurify_ai", "ObscurifyAI", "Obscurify.ai", "obscurify.ai"),
     "ollama": ("agno.models.ollama", "Ollama", "Ollama", "ollama"),
     "ollama-responses": ("agno.models.ollama", "OllamaResponses", "OllamaResponses", "ollama"),
     "openai": ("agno.models.openai", "OpenAIResponses", "OpenAIResponses", "openai"),
